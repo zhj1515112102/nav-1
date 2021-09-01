@@ -67,12 +67,14 @@ $('.addButton')
     localStorage.setItem('x',string)
   }
 
-  $(document).on('keypress',(e)=>{
-    const key = (e.key)   ///={key} = e
-    console.log(key)
-    for(let i=0;i<hashMap.length;i++){
-      if(hashMap[i].logo.toLowerCase() === key){
-        window.open(hashMap[i].url)
-      }
-    }
-  })
+//   function change(){
+//   $(document).on('keypress',(e)=>{
+//     const key = (e.key)   ///={key} = e
+//     console.log(key)
+//     for(let i=0;i<hashMap.length;i++){
+//       if(hashMap[i].logo.toLowerCase() === key){
+//         window.open(hashMap[i].url)
+//       }
+//     }
+//   })
+// }
