@@ -1,0 +1,11 @@
+10
+41C:\Users\15151\Desktop\jirengu\nav-1\dist132746892121286786 1
+50C:\Users\15151\Desktop\jirengu\nav-1\src\style.css132746878771532000 0
+40C:\Users\15151\Desktop\jirengu\nav-1\src132746851589850651 1
+63C:\Users\15151\Desktop\jirengu\nav-1\dist\index.fef1cfaf.js.map132746891483470433 0
+64C:\Users\15151\Desktop\jirengu\nav-1\dist\index.5952072d.css.map132746891483490375 0
+51C:\Users\15151\Desktop\jirengu\nav-1\src\index.html132746892168589561 0
+48C:\Users\15151\Desktop\jirengu\nav-1\src\main.js132746850194819493 0
+59C:\Users\15151\Desktop\jirengu\nav-1\dist\index.fef1cfaf.js132746891483340772 0
+60C:\Users\15151\Desktop\jirengu\nav-1\dist\index.5952072d.css132746891483350748 0
+52C:\Users\15151\Desktop\jirengu\nav-1\dist\index.html132746892121266849 0
