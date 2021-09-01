@@ -19,7 +19,7 @@
 72C:\Users\15151\Desktop\jirengu\nav-1\node_modules\@parcel\diagnostic\src132747759914049325 1
 73C:\Users\15151\Desktop\jirengu\nav-1\node_modules\object-assign\readme.md132637130993510000 0
 74C:\Users\15151\Desktop\jirengu\nav-1\node_modules\graceful-fs\polyfills.js132747759804790000 0
-41C:\Users\15151\Desktop\jirengu\nav-1\dist132749582042902548 1
+41C:\Users\15151\Desktop\jirengu\nav-1\dist132749591332644871 1
 86C:\Users\15151\Desktop\jirengu\nav-1\node_modules\source-map-resolve\node_modules\.bin132747759989883804 1
 86C:\Users\15151\Desktop\jirengu\nav-1\node_modules\highlight.js\lib\languages\autoit.js132663189490030000 0
 69C:\Users\15151\Desktop\jirengu\nav-1\node_modules\nanomatch\README.md132663189494540000 0
@@ -44,7 +44,7 @@
 64C:\Users\15151\Desktop\jirengu\nav-1\node_modules\gauge\error.js132637130965100000 0
 101C:\Users\15151\Desktop\jirengu\nav-1\node_modules\sharp\vendor\8.10.6\include\pango-1.0\pango\pango.h132612604640000000 0
 69C:\Users\15151\Desktop\jirengu\nav-1\node_modules\regex-not\README.md132663189541070002 0
-48C:\Users\15151\Desktop\jirengu\nav-1\src\main.js132749579978583001 0
+48C:\Users\15151\Desktop\jirengu\nav-1\src\main.js132749589161964061 0
 100C:\Users\15151\Desktop\jirengu\nav-1\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gio\gemblem.h132612604640000000 0
 60C:\Users\15151\Desktop\jirengu\nav-1\node_modules\@parcel\fs132747759978164378 1
 56C:\Users\15151\Desktop\jirengu\nav-1\node_modules\is-url132747759885653013 1
@@ -59,7 +59,7 @@
 69C:\Users\15151\Desktop\jirengu\nav-1\node_modules\is-url\package.json132663189426550000 0
 73C:\Users\15151\Desktop\jirengu\nav-1\node_modules\@parcel\fs\package.json132726280433310002 0
 87C:\Users\15151\Desktop\jirengu\nav-1\node_modules\to-regex\node_modules\define-property132747759907188523 1
-50C:\Users\15151\Desktop\jirengu\nav-1\src\style.css132749575799766911 0
+50C:\Users\15151\Desktop\jirengu\nav-1\src\style.css132749590382856119 0
 79C:\Users\15151\Desktop\jirengu\nav-1\node_modules\@parcel\watcher\index.js.flow132663189412260000 0
 64C:\Users\15151\Desktop\jirengu\nav-1\node_modules\snapdragon\lib132747759944578216 1
 62C:\Users\15151\Desktop\jirengu\nav-1\node_modules\set-blocking132747759899728295 1
@@ -634,6 +634,7 @@
 61C:\Users\15151\Desktop\jirengu\nav-1\node_modules\signal-exit132747759900778052 1
 65C:\Users\15151\Desktop\jirengu\nav-1\node_modules\readable-stream132747759897359353 1
 101C:\Users\15151\Desktop\jirengu\nav-1\node_modules\lmdb-store\node_modules\mkdirp\lib\mkdirp-native.js132726280597430000 0
+64C:\Users\15151\Desktop\jirengu\nav-1\dist\index.88a31665.css.map132749591332614955 0
 69C:\Users\15151\Desktop\jirengu\nav-1\node_modules\strip-ansi\index.js132637130931890000 0
 59C:\Users\15151\Desktop\jirengu\nav-1\node_modules\regex-not132747759897559115 1
 102C:\Users\15151\Desktop\jirengu\nav-1\node_modules\string_decoder\node_modules\safe-buffer\package.json132637130853720000 0
@@ -4338,8 +4339,7 @@
 65C:\Users\15151\Desktop\jirengu\nav-1\node_modules\.bin\semver.cmd132747759993222557 0
 60C:\Users\15151\Desktop\jirengu\nav-1\node_modules\.bin\which132747759993493148 0
 64C:\Users\15151\Desktop\jirengu\nav-1\node_modules\.bin\which.cmd132747759993473215 0
-60C:\Users\15151\Desktop\jirengu\nav-1\dist\index.c21f230d.css132749582042483683 0
-64C:\Users\15151\Desktop\jirengu\nav-1\dist\index.c21f230d.css.map132749582042573437 0
-59C:\Users\15151\Desktop\jirengu\nav-1\dist\index.f3dd54d6.js132749582042463734 0
-63C:\Users\15151\Desktop\jirengu\nav-1\dist\index.f3dd54d6.js.map132749582042872636 0
-52C:\Users\15151\Desktop\jirengu\nav-1\dist\index.html132749582042433824 0
+60C:\Users\15151\Desktop\jirengu\nav-1\dist\index.88a31665.css132749591332405536 0
+59C:\Users\15151\Desktop\jirengu\nav-1\dist\index.f3dd54d6.js132749591332405536 0
+63C:\Users\15151\Desktop\jirengu\nav-1\dist\index.f3dd54d6.js.map132749591332475374 0
+52C:\Users\15151\Desktop\jirengu\nav-1\dist\index.html132749591332375596 0

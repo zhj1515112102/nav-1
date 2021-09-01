@@ -138,6 +138,8 @@ img {
   align-items: center;
   flex-direction: column;
   padding: 20px 0;
+  cursor: pointer;
+  border-radius: 4px;
 }
 .siteList .addButton .icon {
   width: 64px;
@@ -157,8 +159,4 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.siteList .last {
-  cursor: pointer;
 }
