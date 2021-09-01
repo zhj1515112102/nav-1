@@ -69,7 +69,10 @@ $('.addButton')
 
   $(document).on('keypress',(e)=>{
     const key = (e.key)   ///={key} = e
+    console.log(key)
     for(let i=0;i<hashMap.length;i++){
-      window.open(hashMap[i].url)
+      if(hashMap[i].logo.toLowerCase() === key){
+        window.open(hashMap[i].url)
+      }
     }
   })

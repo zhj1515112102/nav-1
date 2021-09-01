@@ -19,7 +19,7 @@
 72C:\Users\15151\Desktop\jirengu\nav-1\node_modules\@parcel\diagnostic\src132747759914049325 1
 73C:\Users\15151\Desktop\jirengu\nav-1\node_modules\object-assign\readme.md132637130993510000 0
 74C:\Users\15151\Desktop\jirengu\nav-1\node_modules\graceful-fs\polyfills.js132747759804790000 0
-41C:\Users\15151\Desktop\jirengu\nav-1\dist132749591332644871 1
+41C:\Users\15151\Desktop\jirengu\nav-1\dist132749601582796744 1
 86C:\Users\15151\Desktop\jirengu\nav-1\node_modules\source-map-resolve\node_modules\.bin132747759989883804 1
 86C:\Users\15151\Desktop\jirengu\nav-1\node_modules\highlight.js\lib\languages\autoit.js132663189490030000 0
 69C:\Users\15151\Desktop\jirengu\nav-1\node_modules\nanomatch\README.md132663189494540000 0
@@ -44,7 +44,7 @@
 64C:\Users\15151\Desktop\jirengu\nav-1\node_modules\gauge\error.js132637130965100000 0
 101C:\Users\15151\Desktop\jirengu\nav-1\node_modules\sharp\vendor\8.10.6\include\pango-1.0\pango\pango.h132612604640000000 0
 69C:\Users\15151\Desktop\jirengu\nav-1\node_modules\regex-not\README.md132663189541070002 0
-48C:\Users\15151\Desktop\jirengu\nav-1\src\main.js132749589161964061 0
+48C:\Users\15151\Desktop\jirengu\nav-1\src\main.js132749601092063143 0
 100C:\Users\15151\Desktop\jirengu\nav-1\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gio\gemblem.h132612604640000000 0
 60C:\Users\15151\Desktop\jirengu\nav-1\node_modules\@parcel\fs132747759978164378 1
 56C:\Users\15151\Desktop\jirengu\nav-1\node_modules\is-url132747759885653013 1
@@ -634,7 +634,7 @@
 61C:\Users\15151\Desktop\jirengu\nav-1\node_modules\signal-exit132747759900778052 1
 65C:\Users\15151\Desktop\jirengu\nav-1\node_modules\readable-stream132747759897359353 1
 101C:\Users\15151\Desktop\jirengu\nav-1\node_modules\lmdb-store\node_modules\mkdirp\lib\mkdirp-native.js132726280597430000 0
-64C:\Users\15151\Desktop\jirengu\nav-1\dist\index.88a31665.css.map132749591332614955 0
+64C:\Users\15151\Desktop\jirengu\nav-1\dist\index.88a31665.css.map132749601582776787 0
 69C:\Users\15151\Desktop\jirengu\nav-1\node_modules\strip-ansi\index.js132637130931890000 0
 59C:\Users\15151\Desktop\jirengu\nav-1\node_modules\regex-not132747759897559115 1
 102C:\Users\15151\Desktop\jirengu\nav-1\node_modules\string_decoder\node_modules\safe-buffer\package.json132637130853720000 0
@@ -1640,6 +1640,7 @@
 91C:\Users\15151\Desktop\jirengu\nav-1\node_modules\sharp\vendor\8.10.6\include\vips\thread.h132612604640000000 0
 78C:\Users\15151\Desktop\jirengu\nav-1\node_modules\is-plain-object\package.json132663189623660000 0
 104C:\Users\15151\Desktop\jirengu\nav-1\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gio\gdbusobject.h132612604640000000 0
+63C:\Users\15151\Desktop\jirengu\nav-1\dist\index.9ce82391.js.map132749601582706970 0
 94C:\Users\15151\Desktop\jirengu\nav-1\node_modules\sharp\vendor\8.10.6\include\vips\transform.h132612604640000000 0
 87C:\Users\15151\Desktop\jirengu\nav-1\node_modules\sharp\vendor\8.10.6\include\aom\aom.h132612604640000000 0
 112C:\Users\15151\Desktop\jirengu\nav-1\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gobject\gvaluecollector.h132612604640000000 0
@@ -3018,6 +3019,7 @@
 68C:\Users\15151\Desktop\jirengu\nav-1\node_modules\bl\test\indexOf.js132638302007780000 0
 96C:\Users\15151\Desktop\jirengu\nav-1\node_modules\lmdb-store\prebuilds\win32-x64\node.abi83.node132747759806370000 0
 85C:\Users\15151\Desktop\jirengu\nav-1\node_modules\@parcel\watcher\prebuilds\win32-x64132747759954517913 1
+59C:\Users\15151\Desktop\jirengu\nav-1\dist\index.9ce82391.js132749601582607235 0
 96C:\Users\15151\Desktop\jirengu\nav-1\node_modules\lmdb-store\prebuilds\linux-x64\node.abi83.node132747759806370000 0
 65C:\Users\15151\Desktop\jirengu\nav-1\node_modules\is-glob\LICENSE132663189425230000 0
 96C:\Users\15151\Desktop\jirengu\nav-1\node_modules\lmdb-store\prebuilds\linux-x64\node.abi93.node132747759806370000 0
@@ -4339,7 +4341,5 @@
 65C:\Users\15151\Desktop\jirengu\nav-1\node_modules\.bin\semver.cmd132747759993222557 0
 60C:\Users\15151\Desktop\jirengu\nav-1\node_modules\.bin\which132747759993493148 0
 64C:\Users\15151\Desktop\jirengu\nav-1\node_modules\.bin\which.cmd132747759993473215 0
-60C:\Users\15151\Desktop\jirengu\nav-1\dist\index.88a31665.css132749591332405536 0
-59C:\Users\15151\Desktop\jirengu\nav-1\dist\index.f3dd54d6.js132749591332405536 0
-63C:\Users\15151\Desktop\jirengu\nav-1\dist\index.f3dd54d6.js.map132749591332475374 0
-52C:\Users\15151\Desktop\jirengu\nav-1\dist\index.html132749591332375596 0
+60C:\Users\15151\Desktop\jirengu\nav-1\dist\index.88a31665.css132749601582607235 0
+52C:\Users\15151\Desktop\jirengu\nav-1\dist\index.html132749601582587299 0
